@@ -3,9 +3,5 @@
 </p>
 
 <p align="center">
-  <b>I don't compete. I get bored.</b>
-</p>
-
-<p align="center">
-  <sub>AI does the typing.</sub>
+  <b>bored.</b>
 </p>
